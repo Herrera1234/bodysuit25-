@@ -25,23 +25,3 @@ async function iniciar () {
 iniciar ()
 .catch (err => console.log("unexpected error: " + err))
 
-Y LISTO!!
-
-Tenemos nuestra pequeña basecita de un Botcito.
-
-Lo que queda es instalar y probar que funcione, para eso usamos termux, y los comandos:
-
-pkg install git
-pkg install bash
-pkg install nodejs
-
-git clone (link de su repositorio)
-cd (nombre de su repositorio)
-bash install.sh / si cambiaron el nombre, escriban como le pusieron a su archivo
-npm start
-
-Si hicieron todo bien, les aparecera un codigo QR, el cual deberan escanear en el apartado 'WhatsApp Web' de la Aplicacion de WhatsApp
-
- 
-
-Esto fue la primera seccion, si te a gustado e interesado, puedes pasar a la siguiente seccion
